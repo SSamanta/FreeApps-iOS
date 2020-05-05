@@ -7,3 +7,4 @@ Demo iOS application to fetch latest app store free app using SwiftUI, Combine a
 ### To Do:
 - [ ] Navigate to app details
 - [ ] Create network lib using SPM
+- [ ] Write unit test cases
